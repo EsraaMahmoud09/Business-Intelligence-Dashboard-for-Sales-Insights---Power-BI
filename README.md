@@ -1,4 +1,4 @@
-# Business-Intelligence-Dashboard-for-Sales-Insights---Power-BI
+# Business-Intelligence-Dashboard-for-Sales-Insights-Power-BI
 
 ##  Overview
 This project features a comprehensive multi-page Power BI dashboard designed to analyze sales performance, regional growth, and product trends for a global retail/manufacturing entity. The dashboard provides actionable insights through three specialized views: **Executive Summary**, **Trend & Growth Analysis**, and **Product Performance**.
